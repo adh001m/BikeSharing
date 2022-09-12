@@ -1,4 +1,4 @@
-# BikeSharing (https://public.tableau.com/app/profile/adrian.hernandez.martinez/viz/NYCCitiBike-UseOverview/NYCCitiBike-UseOverview)
+# BikeSharing
 
 ## An Overview of CitiBike usage in New York City
 
@@ -17,3 +17,9 @@
  - Time upon bikes are initially rented
  - A demonstration of areas more populated by residents
  - Heavily congested areas
+
+
+
+## Tableau Link
+####
+[(https://public.tableau.com/app/profile/adrian.hernandez.martinez/viz/NYCCitiBike-UseOverview/NYCCitiBike-UseOverview)]
